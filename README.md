@@ -6,6 +6,10 @@
 React Router
 ============
 
+THIS FORK The only thing this fork does is to add a transitionContext to the static methods willTransitionTo . For more information about the issue, see https://github.com/rackt/react-router/pull/590
+
+New React Router versions will be merged here.
+
 A complete routing library for React.
 
 Docs
